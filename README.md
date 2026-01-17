@@ -1,42 +1,49 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/contributing/release_checklist.html#the-readme-file) for README guidelines) ...
-
+The Kholum treebank is a manually annotated corpus in Brahui.
 
 # Introduction
 
-...
+It contains **52 sentences** of a short story called "Grains of Wheat" from the book "Brahui Texts" by Liaquat Ali (Latin script) and **12 sentences** from a news article from the Balochistan Post (Arabic Script: https://tbpbrahui.com/2025/10/72017/).  
+The data has been annotated according to Universal Dependencies guidelines.
 
+The corpus is not split as there are not enough sentences for multiple splits:
 
-# Acknowledgments
+| Split | Number of sentences                 |
+| ----- | ----------------------------------- |
+| Train | 12 (Insaf na Khon) + 52 (Grains of Wheat) |
 
-...
+Annotation follows the Universal Dependencies v2 guidelines for tokenization, part-of-speech tags, and dependency relations.
+
+The news article was collected manually from the news article 
+
+# Acknowledgements
+
+The treebank was annotated by Muhammad Afzal. Supervision and revision by Luigi Talamo, Helena Vaz and Annemarie Verkerk.
 
 ## References
 
-* (citation)
-
+In preparation
 
 # Changelog
 
-* 2025-11-15 v2.17
-  * Initial release in Universal Dependencies.
-
+- 2026-05-15 v2.18
+  - Initial release in Universal Dependencies.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.17
+Data available since: UD v2.18
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: TO-BE-SPECIFIED
+Genre: fiction news
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Talamo, Luigi
+Contributors: Afzal, Muhammad; Talamo, Luigi; Vaz, Helena; Verkerk, Annemarie
 Contributing: here
-Contact: luigi.talamo@uni-saarland.de
+Contact: annemarie.verkerk@uni-saarland.de
 ===============================================================================
 </pre>
