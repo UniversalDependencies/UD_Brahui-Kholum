@@ -11,7 +11,7 @@ The corpus is not split as there are not enough sentences for multiple splits:
 
 | Split | Number of sentences                 |
 | ----- | ----------------------------------- |
-| Train | 12 (Insaf na Khon) + 52 (Grains of Wheat) |
+| Test | 12 (Insaf na Khon) + 52 (Grains of Wheat) |
 
 Annotation follows the Universal Dependencies v2 guidelines for tokenization, part-of-speech tags, and dependency relations.
 
