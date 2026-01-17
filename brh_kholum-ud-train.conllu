@@ -1,4 +1,4 @@
-# sent_id = kholum-1
+# sent_id = kholum_1
 # text = Aṛtomā cunāk xuaššīān dirk xalisa hurār ki balla jān kukuṛātā kuḍḍīnā bāe malā .
 # gloss = both child-PL joy-ABL skip strike-CVB see-PST.3PL COMP grandmother my.dear fowl-PL.GEN stall-GEN door-D/A open-PST.3SG
 # translation = Skipping with joy, both children saw their grandma open the door of the chicken coop.
@@ -17,7 +17,7 @@
 13	malā	mal	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	advcl	_	_
 14	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kholum-2
+# sent_id = kholum_2
 # text = O xīsun , pīhun , sabbarā vilāyattīā kukuṛātā ṭolīṭī , otā ustpasandā moningā bāngo sīnae patan karesa don bāng tiningaṭī as , dunki ɣaebī o dušmane daṛakko tiningaṭī mare .
 # gloss = and red white fat-ADJ foreign-ADJ fowl-PL.GEN group-LOC they-PL.GEN favorite-ADJ black-DADJ rooster breast-D/A spread-CVB this.way crow give-INF-LOC COP.PST.3SG like.this.REL invisible it enemy-D/A threat give-INF-LOC become-SBJV.3SG
 # translation = Among the group of red and white fat foreign fowls, their favorite black rooster was crowing, puffing out its chest, as if it were threatening an enemy out of sight.
@@ -52,7 +52,7 @@
 29	mare	mare	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	_
 30	.	.	PUNCT	_	_	20	punct	_	_
 
-# sent_id = kholum-3
+# sent_id = kholum_3
 # text = Aṛdosar alma kare .
 # gloss = both rush make-PRF.3PL
 # translation = Both boys rushed toward the rooster.
@@ -61,7 +61,7 @@
 3	kare	ka	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kholum-4
+# sent_id = kholum_4
 # text = Bāngo narringkin vāj kare , maga elākā cunāk vāraton bāngoe xumbaṭī alkur .
 # gloss = rooster run.away-INF-BEN try make-PST.3SG
 # translation = It tried to escape, but the nimble children caught the rooster in their arms at once.
@@ -79,7 +79,7 @@
 12	alkur	alk	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 13	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kholum-5
+# sent_id = kholum_5
 # text = Asiṭ tā puccātā jāgaɣā , asi xāzgīo parɣalān bār saṛoko baniānas jānā karesus .
 # gloss = one =3PL clothes-PL.GEN instead one dirty-IDF robe-ABL like worn.out-IDF underwear-IDF body-ALL do-PLPF.3SG
 # translation = Instead of wearing clothes, one of them was dressed in worn-out underwear like a dirty robe.
@@ -98,7 +98,7 @@
 13	karesus	ka	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	.	.	PUNCT	_	_	13	punct	_	_
 
-# sent_id = kholum-6
+# sent_id = kholum_6
 # text = Iraɣnā cārikkas muṭṭaṭī ɣurcisa , jaṭjaṭṭā iraɣnā kunje mūšk ānbār ḍalingaṭī as .
 # gloss = bread-GEN quarter-IDF fist-LOC swallow-CVB time.and.again bread-GEN corner-D/A mouse-PL like bite-INF-LOC COP.PST.3SG
 # translation = Biting and swallowing the quarter of a piece of bread in his fist, he was nibbling at the edges of the bread time and again, like mice do.
@@ -116,7 +116,7 @@
 12	as	as	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
 13	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = kholum-7
+# sent_id = kholum_7
 # text = O elo cunānā dū muṭ assaka .
 # gloss = and other child-GEN hand fist COP-IPF.3SG
 # translation = The other child had clenched his fist.
@@ -128,7 +128,7 @@
 6	assaka	as	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kholum-8
+# sent_id = kholum_8
 # text = Jaṭṭas bāngo xumbaṭī ta trāpoṛī xalk maga cunāk bāngoe bevas karer .
 # gloss = while-IDF rooster arms-LOC =3.sSG escape strike.PST.3SG but child-PL cock-D/A helpless make-PRF.3PL
 # translation = For a moment, the rooster tried to escape from his grasp, but the children subdued it.
@@ -145,7 +145,7 @@
 11	karer	ka	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 12	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kholum-9
+# sent_id = kholum_9
 # text = O rum karer duppanā kunḍā , arāṛe ki , raīs karīm xānnā bāngo kāṭumnā tāje suriffisa , ābādo mulkasenā serpiḍḍā sardārān bār ṭelāp kareka .
 # gloss = they run make-PRF.3SG dump-GEN corner-ALL where-REL COMP headman PRON-GEN rooster head-GEN crest-D/A shake-CVB prosperous-IDF country-IDF-GEN well.fed-ADJ chief-ABL like strut do-IPF.3SG
 # translation = They ran toward the garbage dump, where the rooster of the headman Karīm Khān, shaking the crest of its head, strutted around like a well-fed chief from a prosperous country.
@@ -175,7 +175,7 @@
 24	kareka	ka	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	conj	_	_
 25	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kholum-10
+# sent_id = kholum_10
 # text = Raīsnā bāngoe xanington cunātā bā šīṛ mas .
 # gloss = headman-GEN rooster-D/A see-INF-COM child-PL.GEN mouth grinning become.PST.3SG
 # translation = Upon seeing the headman’s rooster, the children grinned.
@@ -188,7 +188,7 @@
 7	mas	mas	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = kholum-11
+# sent_id = kholum_11
 # text = Iraɣ conḍokā cunā , ballanā bāngoe raīsnā bāngoā caɣal tis .
 # gloss = bread nibble-ADJP-ADJ child grandmother-GEN rooster-D/A headman-GEN rooster-ALL throwing give.PST.3SG
 # translation = The child who was nibbling on the bread threw grandmother’s rooster against the headman’s.
@@ -204,7 +204,7 @@
 10	tis	et	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = kholum-12
+# sent_id = kholum_12
 # text = Aval to bāngok asi eloṛā xan kaššār .
 # gloss = first TOP rooster-PL each.other-ALL eye pull-PST.3SG
 # translation = Initially, the roosters eyed each other.
@@ -217,7 +217,7 @@
 7	kaššār	kaš	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = kholum-13
+# sent_id = kholum_13
 # text = Lixanā parraɣāte laṛzefer dunki haṛtomā bāngote sarcanḍ mare .
 # gloss = neck-GEN feather-PL.D/A raise-PST.3PL like both rooster-PL.D/A tremor be-SBJV.3SG
 # translation = They raised the feathers of their necks, as if both were trembling.
@@ -231,7 +231,7 @@
 8	mare	mare	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
 9	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kholum-14
+# sent_id = kholum_14
 # text = Maga jang jang padā xaeranā vasāhitān bār , bāngok madān madān xer kanningaṭī assur .
 # gloss = but war war after peace-GEN saying-ABL like rooster-PL slow slow be.reconciled-INF-LOC COP-PST.3PL
 # translation = But as the saying goes, “Peace after every war”, the roosters gradually made peace.
@@ -251,7 +251,7 @@
 14	assur	as	AUX	_	Tense=Past	13	aux	_	_
 15	.	.	PUNCT	_	_	13	punct	_	_
 
-# sent_id = kholum-15
+# sent_id = kholum_15
 # text = Ballanā bāngo aval lixe luṛefe .
 # gloss = grandmother-GEN rooster first neck-D/A bend-PST.3SG
 # translation = Grandmother’s rooster backed down first.
@@ -262,7 +262,7 @@
 5	luṛefe	luṛef	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kholum-16
+# sent_id = kholum_16
 # text = Valdā raīsnā bāngo xerā kīnkis kare .
 # gloss = then headman-GEN rooster back-ALL sidle make-PST.3SG
 # translation = Then the headman’s rooster sidled away.
@@ -274,7 +274,7 @@
 6	kare	ka	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kholum-17
+# sent_id = kholum_17
 # text = Nāgumānā asi cunās muṭṭe tenā yala kare .
 # gloss = suddenly-ALL one child-IDF fist-D/A self-GEN released make-PST.3SG
 # translation = Suddenly a child unclenched his fist.
@@ -287,7 +287,7 @@
 7	kare	ka	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = kholum-18
+# sent_id = kholum_18
 # text = Onā dildast xed ān xīt assaka , o xolumnā musi kaṛo dildastāte liccok assur .
 # gloss = he.GEN palm sweat-ABL wet COP-IPF.3SG and wheat-GEN three grain palm-PL.D/A stick-ADJP COP-PST.3PL
 # translation = His palm was damp with sweat, and there were three grains of wheat sticking to it.
@@ -307,7 +307,7 @@
 14	assur	as	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 15	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kholum-19
+# sent_id = kholum_19
 # text = Cunā dūe canḍā to har musi kaṛok ḍaɣārā tammār .
 # gloss = child hand-D/A shake-PST.3SG then every three grain-PL land-ALL fall-PST.3PL
 # translation = When the child shook his hand, all three grains fell on the ground.
@@ -322,7 +322,7 @@
 9	tammār	tam	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 10	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kholum-20
+# sent_id = kholum_20
 # text = Asivārton aṛdosarā bāngok xolumtiā havāla massur .
 # gloss = one-time-COM both-ADJ rooster-PL wheat-PL.ALL lunge become-PST.3PL
 # translation = Both roosters lunged for the wheat grains at once.
@@ -334,7 +334,7 @@
 6	massur	ma	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kholum-21
+# sent_id = kholum_21
 # text = Aṛtomāk asi asi xolumnā kaṛo guṭlūān gidrefesur , ki musiṭṭamīko xolum mišaṭī avār mas .
 # gloss = both-PL one one wheat-GEN grain throat-ABL make.pass-PLPF.3PL COMP third wheat dirt-LOC mixed become.PST.3SG
 # translation = Each rooster had swallowed a grain of wheat, and the third grain muddled with dirt.
@@ -354,7 +354,7 @@
 14	mas	mas	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 15	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = kholum-22
+# sent_id = kholum_22
 # text = Bāngok padgīrtiān bār asivāras dīdaɣāte ḍaɣārā carrefer .
 # gloss = rooster-PL private.eye-PL.ABL like one-time-IDF iris-PL.D/A land-ALL scan-PST.3PL
 # translation = Like private eyes, the roosters scanned the ground once with their irises.
@@ -367,7 +367,7 @@
 7	carrefer	carref	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = kholum-23
+# sent_id = kholum_23
 # text = O valdā asieloṛā šakbīṛ , jaṭṭas nešteaṭ ḍaɣāre šurrār .
 # gloss = they again each.other-ALL suspicious awhile spur-PL.INS ground-D/A scratch-PST.3PL
 # translation = Once again they became suspicious to each other and scratched at the earth with their spurs for a moment.
@@ -382,7 +382,7 @@
 9	šurrār	šur	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = kholum-24
+# sent_id = kholum_24
 # text = O valdā ki siṭṭār , asiṭnā neš elonā sunṭ .
 # gloss = they again COMP hop-PST.3PL one-GEN spur other-GEN beak
 # translation = They jumped at each other once again, with one’s spur caught in the other’s beak.
@@ -397,7 +397,7 @@
 9	sunṭ	sunṭ	NOUN	_	Number=Sing	4	obl	_	_
 10	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kholum-25
+# sent_id = kholum_25
 # text = Cunātāe dunki xudā bing .
 # gloss = child-PL.GEN-D/A as.if God hear.PST.3SG
 # translation = It was as if God had granted the children’s wish.
@@ -407,7 +407,7 @@
 4	bing	bin	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kholum-26
+# sent_id = kholum_26
 # text = Amoṛe cāpe šāɣār antaeki otā monā dunyānā asi juāno guāzīasenā nidāra assaka .
 # gloss = there clap-D/A begin-PST.3PL because they-GEN face-ALL world-GEN one good-IDF play-IDF-GEN view COP-IPF.3SG
 # translation = They began to clap then, because there was a spectacle of a good entertainment of the world in front of them.
@@ -425,7 +425,7 @@
 12	assaka	as	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
 13	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kholum-27
+# sent_id = kholum_27
 # text = Cunāk , xudā cāe , pen aṭ vaxt bāngote xolumnā asi kaṛoā jang tissura .
 # gloss = child-PL God know-SBJV.3SG other how.many time rooster-PL.D/A wheat-GEN one grain-ALL fight give-IPF.3PL
 # translation = God might have known how many times the children had made roosters fight over a grain of wheat before.
@@ -445,7 +445,7 @@
 14	tissura	tis	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
 15	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kholum-28
+# sent_id = kholum_28
 # text = Ki asi deas raīs karīm jān tenā mālumnā memānīkin bāngoe taṛe .
 # gloss = COMP one day-IDF headman PROP jii self-GEN father.in.law-GEN hospitality-GEN rooster-D/A cut-PST.3SG
 # translation = For, one day, Headman Karīm slaughtered the rooster to entertain his father-in-law.
@@ -462,7 +462,7 @@
 11	taṛe	taṛ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = kholum-29
+# sent_id = kholum_29
 # text = Cunāk mana deto mūnjā massur .
 # gloss = child-PL sme day-COM unhappy become-PST.3PL
 # translation = The children were disheartened for a few days.
@@ -473,7 +473,7 @@
 5	massur	ma	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kholum-30
+# sent_id = kholum_30
 # text = Maga valdā asi pen guāzīas paṭṭār .
 # gloss = but then one other play-IDP search-PST.3PL
 # translation = But then they found another pastime.
@@ -485,7 +485,7 @@
 6	paṭṭār	paṭ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kholum-31
+# sent_id = kholum_31
 # text = Asiṭ tā jāgaseān yalaīo kucakkas es .
 # gloss = one =3pl place-IDF-ABL free-IDF dog-IDF bring.PST.3SG
 # translation = Of of them brought a wild dog from somewhere.
@@ -497,7 +497,7 @@
 6	es	at	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kholum-32
+# sent_id = kholum_32
 # text = O sāmbingaṭī tammā ta .
 # gloss = he pet-INF-LOC start-PST.3SG =3SG
 # translation = He began to domesticate it.
@@ -507,7 +507,7 @@
 4	ta	ta	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kholum-33
+# sent_id = kholum_33
 # text = Kucak am irā deaṭī el kare īton ta .
 # gloss = dog too two day-LOC familiarity make-PST.3SG ī-COM =3SG
 # translation = The dog was also tamed by him within two days.
@@ -521,7 +521,7 @@
 8	ta	ta	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obl	_	_
 9	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kholum-34
+# sent_id = kholum_34
 # text = Dāsā cunāk dedrust dāng eng sarxalkura .
 # gloss = now child-PL day-whole hither thither ramble-IPF.3PL
 # translation = Now the children roamed all day, here and there.
@@ -533,7 +533,7 @@
 6	sarxalkura	sarxal	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kholum-35
+# sent_id = kholum_35
 # text = O arāṛe am pen kuckakkas xanāra , iraɣnā cunḍas kucakkātā niyāmaṭī biṭera .
 # gloss = they were =too other dog-IDF see-IPF.3SG bread-GEN piece-IDF dog-PL.GEN middle-LOC drop-IPF.3PL
 # translation = Wherever they saw another dog, they would place a piece of bread between the dogs.
@@ -551,7 +551,7 @@
 12	biṭera	biṭ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = kholum-36
+# sent_id = kholum_36
 # text = Kucakkātā jang ote bāngotā jangān ziyāt juān laggā .
 # gloss = dog-PL.GEN fight they-PL.D/A rooster-PL.GEN fight-ABL more good be.felt-PST.3SG
 # translation = They found dog fight more entertaining than those of the roosters.
@@ -565,7 +565,7 @@
 8	laggā	lag	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = kholum-37
+# sent_id = kholum_37
 # text = Asi de ṭāk nemrocaṭī cunāk duppā lāɣaro tā̃zīas xanār .
 # gloss = one day totally midday-LOC child-PL dump-ALL skinny-IDF hound-IDF see-PST.3PL
 # translation = One day at noon, the children saw a skinny hound near the garbage dump.
@@ -580,7 +580,7 @@
 9	xanār	xan	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = kholum-38
+# sent_id = kholum_38
 # text = Duppān zarās cist , pinnoko dīvālasenā sexāṭī paxīras damkaššingkin leṭok assaka .
 # gloss = dump-ABL a.little-IDF away crumble-ADJP-IDF wall-IDF-GEN shadow-LOC wanderer-IDF take.rest-INF-BEN lie.down-ADJP COP-IPF.3SG
 # translation = Not far from the dump, there was a wanderer lying down to take rest in the shade of a crumbling wall.
@@ -597,7 +597,7 @@
 11	assaka	as	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 12	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = kholum-39
+# sent_id = kholum_39
 # text = Asi cunās dudengaṭ hinā o iraɣas pinḍā bas .
 # gloss = one child-IDF full.speed-INS go-PST.3SG he bread-IDF beg-PST.3SG come.PST.3SG
 # translation = One of the children rushed over, asked for a piece of bread, and came back.
@@ -611,7 +611,7 @@
 8	bas	ba	VERB	_	Tense=Past	7	conj	_	_
 9	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kholum-40
+# sent_id = kholum_40
 # text = Sāmbokā kucak tā liṭikke pīrī tirisa randaṭ ta bas .
 # gloss = tame-ADJP-ADJ dog =PL tail-D/A shaking give-CVB track-INS =3SG come.PST.3SG
 # translation = The dog they had tamed followed him, wagging its tail.
@@ -626,7 +626,7 @@
 9	bas	ba	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = kholum-41
+# sent_id = kholum_41
 # text = Tā̃zī paxīrnā raaṭī tūlok as .
 # gloss = hound wanderer-GEN side-LOC sit-ADJP COP.PST.3SG
 # translation = The hound was sitting beside the wanderer.
@@ -637,7 +637,7 @@
 5	as	as	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kholum-42
+# sent_id = kholum_42
 # text = Cunātā kucakke xanā to xaf te šik kare .
 # gloss = child-PL.GEN dog-D/A see-PST.3SG then ear =3SG pointed make-PST.3SG
 # translation = When it saw the children’s dog, it perked up its ears.
@@ -651,7 +651,7 @@
 8	kare	ka	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 9	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = kholum-43
+# sent_id = kholum_43
 # text = O aṛtomā kucakkāk ɣurringaṭī tammār .
 # gloss = those both dog-PL growl-INF-LOC fall-PST.3PL
 # translation = Both dogs began to growl.
@@ -662,7 +662,7 @@
 5	tammār	tam	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kholum-44
+# sent_id = kholum_44
 # text = Cunāk iraɣe tā̃zīā xassār ki kucakkāk jang aler .
 # gloss = child-PL bread-D/A hound-ALL throw-PST.3PL COMP dog-PL fight take.up-SBJV.3PL
 # translation = The children tossed the bread towards the hound, hoping that the dogs would start fighting.
@@ -676,7 +676,7 @@
 8	aler	al	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
 9	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kholum-45
+# sent_id = kholum_45
 # text = Maga kucakkātiān must paxīrnā jind iraɣe jappā .
 # gloss = but dog-PL.ABL before wanderer-GEN self bread-D/A grab-PST.3SG
 # translation = However, before the dogs reacted, the wanderer himself snatched up the bread.
@@ -689,7 +689,7 @@
 7	jappā	jap	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = kholum-46
+# sent_id = kholum_46
 # text = Kucakkāk paxīrā hunningaṭī tammār .
 # gloss = dog-PL wanderer-ALL see-INF-LOC start-PST.3PL
 # translation = The dogs started gazing at the wanderer.
@@ -699,7 +699,7 @@
 4	tammār	tam	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kholum-47
+# sent_id = kholum_47
 # text = Paxīr karārā iraɣe musi ṭukkur kare .
 # gloss = wanderer slow-ALL bread-D/A three piece make-PST.3SG
 # translation = The wanderer slowly divided the bread into three pieces.
@@ -711,7 +711,7 @@
 6	kare	kare	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kholum-48
+# sent_id = kholum_48
 # text = Asi ṭukkuras tenā jolaṭī šāɣā o asi asi ṭukkur aṛtomā kucakkātā monā biṭe .
 # gloss = one piece-IDF self-GEN sack-LOC put.in-PST.3SG and one one piece both dog-PL.GEN front-ALL drop-PST.3SG
 # translation = He tucked one piece into his sack, and laid a piece in front of each dog.
@@ -730,7 +730,7 @@
 13	biṭe	biṭ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 14	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = kholum-49
+# sent_id = kholum_49
 # text = Cunātā bā xaṭ mas , ki otā musi iraɣā sāmbokā kucak , asi iraɣnā musiṭṭamīko bašxā am liṭikke suriffingaṭī as .
 # gloss = child-PL.GEN mouth wide.open become.PST.3SG COMP they-PL.GEN three bread-ALL pet-ADJP-ADJ dog one bread-GEN third share-ALL =too tail-D/A shake-INF-LOC COP.PST.3SG
 # translation = The children’s mouths were open (in astonishment), for the dog, which they had tamed with three pieces of bread, was wagging its tail with just a third.
@@ -756,7 +756,7 @@
 20	as	as	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
 21	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = kholum-50
+# sent_id = kholum_50
 # text = Asi cunās tenā kucakke laɣattas xalk o sangatte pāre .
 # gloss = one child-IDF self-GEN dog-D/A kick-IDF strike.PST.3SG he friend-D/A say-PST.3SG
 # translation = One child kicked his dog and said to his friend.
@@ -771,7 +771,7 @@
 9	pāre	pā	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 10	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = kholum-51
+# sent_id = kholum_51
 # text = Kān pen kucakkas sāmbin .
 # gloss = go-SBJV.1PL other dog-IDF pet-SBJV.1PL
 # translation = “Let’s go. We will tame another dog."
@@ -781,7 +781,7 @@
 4	sāmbin	sāmb	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	xcomp	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = kholum-52
+# sent_id = kholum_52
 # text = Dā kuckak laɣor massune .
 # gloss = this dog cowardly become-PRF.3SG
 # translation = This dog has become a coward.
@@ -791,7 +791,7 @@
 4	massune	ma	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# send_id = murderjustice-1
+# sent_id = murderjustice-1
 # text = پاکستان سپریم کورٹ نا جسٹس اطہر من اللہ بیدس عدالت خونءِ راہبند و بنداوی بندغی حق آتا ترند لتاڑ گوندسہ تربت ئٹ لمہ باوہ نا مونا حیات بلوچءِ کسفوک بلوچستان فرنٹیئر کور نا کارندہ شادی اللہ نا مرک ئنا سزا نا برخلاف تروکا خواستءِ منتو۔
 # rtl = yes
 1	پاکستان	پاکستان	PROPN	_	Number=Sing	3	compound	_	_
@@ -840,7 +840,7 @@
 44	خواستءِ	خواست	NOUN	_	Number=Sing	45	obj	_	_
 45	منتو۔	من	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	20	advcl	_	_
 
-# send_id = murderjustice-2
+# sent_id = murderjustice-2
 # text = واہم سپریم کورٹ نا مُسہ باسکی بینچ دو یک نا رد ئٹ ودکی فیصلہ شینک کریسہ ڈوہدار نا مرک ئنا سزاءِ عمر قید ئٹ بدل کرینے۔
 # rtl = yes
 1	واہم	واہم	ADV	_	_	16	advmod	_	_
@@ -870,7 +870,7 @@
 25	بدل	بدل	NOUN	_	Number=Sing	26	obj	_	_
 26	کرینے۔	کہ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
 
-# send_id = murderjustice-4
+# sent_id = murderjustice-4
 # text = کراچی یونیورسٹی نا خوانندہ حیات بلوچءِ 13 اگست 2020 آ تربت نا علاقہ آبسر ئٹ اونا لمہ باوہ نا مونا ایف سی کارندہ شادی اللہ ہشت سُم خلیسہ کسفیسس۔
 # rtl = yes
 1	کراچی	کراچی	PROPN	_	Number=Sing	2	compound	_	_
@@ -903,7 +903,7 @@
 28	خلیسہ	خل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 29	کسفیسس۔	کسف	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	advcl	_	_
 
-# send_id = murderjustice-5
+# sent_id = murderjustice-5
 # text = حیات بلوچ نا بے ڈوہ آ خون بلوچستان ئٹ ترند السی ردعمل ودی کرے، ہرا ریاستی تادی نا برخلاف اسہ مزاحمت اس ودی کرے ہرا اینو ہم جتا دروشم آتیٹ برجاءِ
 # rtl = yes
 1	حیات	حیات	PROPN	_	Number=Sing	7	nmod	_	_
@@ -938,7 +938,7 @@
 30	آتیٹ	آتیٹ	ADP	_	_	29	case	_	_
 31	برجاءِ	برجاءِ	ADJ	_	_	21	acl	_	_
 
-# send_id = murderjustice-6
+# sent_id = murderjustice-6
 # text = واہم السی مزاحمت و عدالتی فیصلہتیان پر ہم بلوچستان ئٹ سیاسی باسکآک و زوراکی ئٹ بیگواہ بندغآتا بیدس عدالت خون تا لڑ ایسر مننگ کتو۔
 # rtl = yes
 1	واہم	واہم	ADV	_	_	25	discourse	_	_
@@ -967,7 +967,7 @@
 24	مننگ	مہ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	xcomp	_	_
 25	کتو۔	کہ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
 
-# send_id = murderjustice-8
+# sent_id = murderjustice-8
 # text = حیات بلوچ نا خونءِ پنچ سال پورو مسنے، ولے دا سال تیٹ پولیس نا دروغ نا مونتس تا پِنآ سدآ بلوچ ورناک بیدس عدالت کسفنگانو۔
 # rtl = yes
 1	حیات	حیات	PROPN	_	Number=Sing	4	nmod	_	_
@@ -996,7 +996,7 @@
 24	عدالت	عدالت	NOUN	_	Number=Sing	25	obl	_	_
 25	کسفنگانو۔	کسف	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
 
-# send_id = murderjustice-9
+# sent_id = murderjustice-9
 # text = بلوچستان ئٹ ہر بھلا تدینی آن پد بلوچ ورنا تے کسفسہ اوفتا جونک بیابان تیٹ خسنگ نا عمل دائسکان برجاءِ
 # rtl = yes
 1	بلوچستان	بلوچستان	PROPN	_	Number=Sing	5	nmod	_	_
@@ -1020,7 +1020,7 @@
 19	دائسکان	دائسکان	ADV	_	_	20	advmod	_	_
 20	برجاءِ	برجاءِ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 
-# send_id = murderjustice-10
+# sent_id = murderjustice-10
 # text = ریاستی بیدادی نا دنانگا تدینیتا برخلاف بش مروکا توارآک طاغت نا زور آ ایسر کننگسہ ءُ، اندن ایلو پارہغان اندا علاقہ تیٹ ایمنی و دیمروی نا دعویٰ ہم مریسہءِ۔
 # rtl = yes
 1	ریاستی	ریاست	NOUN	_	Number=Sing	2	compound	_	_
@@ -1053,7 +1053,7 @@
 28	ہم	ہم	ADV	_	_	29	advmod	_	_
 29	مریسہءِ۔	مہ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	_
 
-# send_id = murderjustice-12
+# sent_id = murderjustice-12
 # text = بلوچستان ئٹ عدالت آتا فیصلہغاک عملی دروشم ئٹ ہچبر نافذ متور۔
 # rtl = yes
 1	بلوچستان	بلوچستان	PROPN	_	Number=Sing	3	nmod	_	_
@@ -1068,7 +1068,7 @@
 10	نافذ	نافذ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	xcomp	_	_
 11	متور۔	مہ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
 
-# send_id = murderjustice-13
+# sent_id = murderjustice-13
 # text = مقتدر طاغت آتا زور آ انصافءِ کسفسہ تینا فیصلہتے الس آ مسلط کریسہ بسنے۔
 # rtl = yes
 1	مقتدر	مقتدر	ADJ	_	_	2	amod	_	_
@@ -1086,7 +1086,7 @@
 13	کریسہ	کہ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 14	بسنے۔	بہ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	_
 
-# send_id = murderjustice-14_split1
+# sent_id = murderjustice-14_split1
 # text = زوتیٹ بلوچستان نا حالیت آتا بدل مننگ نا ہچو آثار خننگپک۔
 # rtl = yes
 1	زوتیٹ	زو	ADV	_	_	7	advmod	_	_
@@ -1101,7 +1101,7 @@
 10	آثار	آثار	NOUN	_	Number=Sing	11	obj	_	_
 11	خننگپک۔	خن	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 
-# send_id = murderjustice-14_split2
+# sent_id = murderjustice-14_split2
 # text = واہم عدالتی انصاف نا مفننگ آن پد ہم حیات بلوچ و ایلو ورنا تیکن بلوچستان آن توار بش مریسہ کرو۔
 # rtl = yes
 1	واہم	واہم	ADV	_	_	19	discourse	_	_
