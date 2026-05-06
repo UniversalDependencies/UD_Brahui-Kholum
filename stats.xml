@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>64</sentences><tokens>819</tokens><words>819</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>64</sentences><tokens>819</tokens><words>819</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="390" /><!-- ., نا, ,, bāngo, asi, cunā, o, kucak, as, iraɣ, ka, ئٹ, کہ, ki, بلوچ -->
+  <forms unique="480" /><!-- ., نا, ,, asi, o, ئٹ, cunāk, kare, ki, بلوچستان, bāngo, bāngoe, jang, maga, آ -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">64</tag><!-- بیدس, juān, pen, السی, ایسر, بش, ترند, سپریم, عدالتی, ودی -->
+    <tag name="ADP">75</tag><!-- نا, ئٹ, آ, bār, آتا, آن, تیٹ, برخلاف, تا, پد -->
+    <tag name="ADV">45</tag><!-- valdā, ہم, am, واہم, asivār, aval, jāga, madān, xer, Amoṛe -->
+    <tag name="AUX">11</tag><!-- as, mare -->
+    <tag name="CCONJ">15</tag><!-- maga, و, o, ki, to, ءُ -->
+    <tag name="DET">36</tag><!-- asi, o, aṛtom, pen, نا, Aṛtomā, Dā, aṛdosar, don, har -->
+    <tag name="NOUN">272</tag><!-- bāngo, cunā, kucak, iraɣ, paxīr, raīs, xolum, de, jang, kaṛo -->
+    <tag name="NUM">28</tag><!-- asi, musi, musiṭṭamī, 13, 2020, irā, اسہ, دو, سدآ, مُسہ -->
+    <tag name="PRON">31</tag><!-- o, tenā, ta, elo, otā, tā, ہرا, Asiṭ, Aṛdosar, arāṛe -->
+    <tag name="PROPN">41</tag><!-- بلوچستان, بلوچ, حیات, اللہ, karīm, xudā, تربت, شادی, jān, xān -->
+    <tag name="PUNCT">74</tag><!-- ., , -->
+    <tag name="SCONJ">8</tag><!-- ki, antae, dun, must, to -->
+    <tag name="VERB">119</tag><!-- ka, کہ, مہ, tam, xan, کسف, ma, mas, ba, biṭ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="26">
+    <feat name="Aspect" value="Imp" upos="VERB">39</feat><!-- tiningaṭī, مننگ, کسفسہ, Kān, aler, conḍokā, cāe, damkaššingkin, dudengaṭ, hunningaṭī -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">82</feat><!-- kare, as, assaka, mas, tammār, karer, mare, massur, xalk, alkur -->
+    <feat name="Case" value="Acc" upos="NOUN,PRON,PROPN">12</feat><!-- baniānas, bāe, bāngoā, dušmane, jind, kucakkas, lixe, parraɣāte, sīnae, tāje -->
+    <feat name="Case" value="Gen" upos="NOUN,PRON,PROPN">33</feat><!-- tenā, cunātā, raīsnā, ballanā, iraɣnā, kukuṛātā, Kucakkātā, Lixanā, Onā, asiṭnā -->
+    <feat name="Mood" value="Imp" upos="VERB">3</feat><!-- Kān, sāmbin, xalk -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">118</feat><!-- kare, as, assaka, mas, tammār, karer, mare, massur, tiningaṭī, مننگ -->
+    <feat name="Number" value="Plur" upos="AUX,DET,NOUN,PRON,VERB">132</feat><!-- cunāk, o, aṛtomā, bāngok, cunātā, kucakkāk, kucakkātā, otā, tammār, bāngote -->
+    <feat name="Number" value="Sing" upos="AUX,DET,NOUN,PRON,PROPN,VERB">361</feat><!-- بلوچستان, bāngo, kare, asi, bāngoe, o, حیات, as, assaka, iraɣnā -->
+    <feat name="NumType" value="Card" upos="NUM">26</feat><!-- asi, musi, 13, 2020, Asiṭ, irā, اسہ, دو, سدآ, مُسہ -->
+    <feat name="NumType" value="Ord" upos="NUM">2</feat><!-- musiṭṭamīko -->
+    <feat name="Person" value="1" upos="VERB">2</feat><!-- Kān, sāmbin -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">147</feat><!-- kare, o, as, assaka, tenā, mas, ta, tammār, karer, mare -->
+    <feat name="Polarity" value="Neg" upos="VERB">4</feat><!-- خننگپک۔, متور۔, منتو۔, کتو۔ -->
+    <feat name="Poss" value="Yes" upos="PRON">10</feat><!-- tenā, Onā, asiṭnā, elonā, otā, ta, tā -->
+    <feat name="PronType" value="Art" upos="DET">12</feat><!-- asi, o, نا, te, آ, اس, تے -->
+    <feat name="PronType" value="Dem" upos="DET">7</feat><!-- Dā, O, don, اندا, ایلو, دا, دنانگا -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">3</feat><!-- pen, الس -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">29</feat><!-- o, tenā, otā, ta, tā, Asiṭ, Aṛtomā, Onā, asiṭnā, elonā -->
+    <feat name="PronType" value="Rel" upos="PRON">3</feat><!-- ہرا, arāṛe -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">13</feat><!-- aṛtomā, Aṛdosar, Aṛtomāk, O, asi, asieloṛā, aṛdosarā, eloṛā, har, haṛtomā -->
+    <feat name="Reflex" value="Yes" upos="PRON">1</feat><!-- jind -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">102</feat><!-- kare, as, assaka, mas, tammār, assur, bas, karer, mare, massur -->
+    <feat name="Tense" value="Pres" upos="VERB">24</feat><!-- مننگ, کریسہ, کسفسہ, Kān, cāe, dudengaṭ, sāmbin, tiningaṭī, xalisa, ɣurringaṭī -->
+    <feat name="VerbForm" value="Conv" upos="VERB">5</feat><!-- karesa, suriffisa, tirisa, xalisa, ɣurcisa -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">105</feat><!-- kare, as, assaka, mas, tammār, karer, mare, massur, xalk, مننگ -->
+    <feat name="VerbForm" value="Inf" upos="VERB">13</feat><!-- tiningaṭī, conḍokā, damkaššingkin, dudengaṭ, hunningaṭī, kanningaṭī, suriffingaṭī, sāmbingaṭī, vāj, xanington -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="27">
+    <dep name="acl">6</dep>
+    <dep name="advcl">21</dep>
+    <dep name="advmod">40</dep>
+    <dep name="amod">46</dep>
+    <dep name="appos">4</dep>
+    <dep name="aux">11</dep>
+    <dep name="case">71</dep>
+    <dep name="cc">16</dep>
+    <dep name="ccomp">2</dep>
+    <dep name="compound">12</dep>
+    <dep name="conj">20</dep>
+    <dep name="det">36</dep>
+    <dep name="discourse">2</dep>
+    <dep name="flat">13</dep>
+    <dep name="iobj">2</dep>
+    <dep name="mark">10</dep>
+    <dep name="nmod">58</dep>
+    <dep name="nmod:poss">31</dep>
+    <dep name="nsubj">69</dep>
+    <dep name="nummod">24</dep>
+    <dep name="obj">71</dep>
+    <dep name="obl">79</dep>
+    <dep name="obl:tmod">1</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="punct">74</dep>
+    <dep name="root">64</dep>
+    <dep name="xcomp">35</dep>
+  </deps>
+</treebank>
